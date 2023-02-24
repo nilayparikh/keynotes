@@ -1,0 +1,5 @@
+host: "http://local/v1/indices"
+port: "443"
+version: "v1"
+username: "backdoor_to_indices"
+password: "isopen"

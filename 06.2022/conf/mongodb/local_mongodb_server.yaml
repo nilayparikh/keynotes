@@ -1,0 +1,6 @@
+host: "localhost"
+port: "27017"
+user: "mongodbuser"
+password: "mongodbpassword"
+database: "mongodbdatabase"
+read_preference: "secondary"

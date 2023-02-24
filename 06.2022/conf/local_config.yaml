@@ -1,0 +1,5 @@
+defaults:
+  - mongodb: local_mongodb_server
+  - mssql: local_mssql_server
+  - useless: local_indices
+  - yaua: local_market_calendar

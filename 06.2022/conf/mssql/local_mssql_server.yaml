@@ -1,0 +1,5 @@
+host: "localhost"
+port: "1433"
+user: "mssqluser"
+password: "mssqlpassword"
+database: "mssqldatabase"

@@ -1,0 +1,4 @@
+host: "http://local/v1/indices"
+port: "443"
+version: "v1"
+token: "imgoodallsecrettosettlementcalendar"
